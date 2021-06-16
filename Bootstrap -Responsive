@@ -27,5 +27,43 @@
     </div>
     
     
+        <div class="row">
+        
+        <div class="col-lg-2 col-md-3" style = "background-color:orange; border: 1px solid;">
+            content 1
+            
+        </div>
+        
+        <div class="col-lg-2 col-md-3" style = "background-color:yellow; border: 1px solid;">
+            content 2
+            
+        </div>
+        
+        <div class="col-lg-2 col-md-3" style = "background-color:grey; border: 1px solid;">
+            content 3
+            
+        </div>
+        
+        <div class="col-lg-2 col-md-3" style = "background-color:brown; border: 1px solid;">
+            content 4
+            
+        </div>
+        
+        <div class="col-lg-2 col-md-3" style = "background-color:blue; border: 1px solid;">
+            content 5
+            
+        </div>
+        
+        <div class="col-lg-2 col-md-3" style = "background-color:pink; border: 1px solid;">
+            content 6
+            
+        </div>
+        
+        </div>
+        
+    </div>
+    
+    
+    
     
 </body>
