@@ -1,0 +1,31 @@
+body {
+    background-color: #71EFA3;
+}
+
+.visible {
+    background-color: #B980F0;
+    width: 200px;
+    height: 100px;
+    overflow: visible;
+}
+
+.hidden {
+    background-color: #FE9898;
+    width: 200px;
+    height: 100px;
+    overflow: hidden;
+}
+
+.scroll {
+    background-color: #F5E79D;
+    width: 200px;
+    height: 100px;
+    overflow: scroll;
+}
+
+.auto {
+    background-color: #E5FBB8;
+    width: 200px;
+    height: 100px;
+    overflow: auto;
+}

@@ -1,0 +1,40 @@
+table,
+th,
+td {
+    border: none;
+    border-collapse: collapse;
+    padding: 0 0 0 10px;
+}
+
+table {
+    width: 100%;
+}
+
+.btitle th {
+    background-color: #00b16a;
+    color: #fff;
+    text-align: left;
+    ;
+}
+
+th {
+    height: 50px;
+    background-color: white;
+    font-size: 16px;
+    font-family: Verdana;
+    font-style: normal;
+}
+
+td {
+    font-size: 20px;
+    font-family: Arial, sans-serif;
+    padding: 10px 0 10px 10px
+}
+
+tr:nth-child(even) {
+    background-color: #E8E8E8;
+}
+
+tr:nth-child(odd) {
+    background-color: #fff;
+}

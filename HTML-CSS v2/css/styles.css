@@ -1,0 +1,22 @@
+body {
+  background-color: #EAF6F6;
+  font-style: Tw Cen MT;
+}
+
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  border-color: #1e272e;
+  border-width: 4px;
+  width: 5%;
+}
+
+h1 {
+color: #66BFBF;
+
+}
+
+h3{
+color: #66BFBF;
+
+}
